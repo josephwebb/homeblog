@@ -12,6 +12,8 @@ gem "jekyll", "~> 3.9"
 
 gem "jekyll-theme-hydejack", "~> 9.1"
 
+gem "kramdown-parser-gfm"
+
 # IMPORTANT: The followign gem is used to compile math formulas to
 # KaTeX during site building.
 #
