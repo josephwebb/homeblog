@@ -36,7 +36,7 @@ keywords:              ["Joseph","Joe","Webb","UVM","University of Vermont","Bio
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/img/logo.png
+logo:                  /assets/img/blog/mylogo.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
@@ -54,7 +54,7 @@ menu:
     url:               /docs/
   - title:             Résumé
     ur:                /docs/
-  - title:             About
+  - title:             About Me
     url:               /about/
 
 # Add links to the footer.
